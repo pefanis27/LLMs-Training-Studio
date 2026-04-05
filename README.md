@@ -1,5 +1,5 @@
 # LLM Training Studio
-
+![unnamed](unnamed.png)
 <p align="center">
   <strong>Ένα ολοκληρωμένο single-file Studio για εκπαίδευση, αξιολόγηση, export και δοκιμή LLMs για Python code.</strong>
 </p>
